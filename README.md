@@ -8,7 +8,6 @@
 
 A ready-to-use **Google Colab** script that scrapes public Instagram posts & reels within a specific date range, downloads all images and videos, generates AI descriptions with Google Gemini, and creates a clean Excel guide that maps every media file to its original post.
 
-**Example target:** [@justcutitgh](https://www.instagram.com/justcutitgh/)
 
 ---
 
