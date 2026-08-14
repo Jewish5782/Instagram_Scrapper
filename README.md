@@ -157,12 +157,3 @@ Feel free to use, modify, and share.
 **Made with care for content creators, researchers, and archivists.**
 
 ---
-
-### Tips for your GitHub repository
-
-1. Create a folder called `assets/` and put 2–3 screenshots inside it (Excel preview, folder structure, sample downloaded media).
-2. Replace the image links in the README with the real paths after you upload them.
-3. Add a `LICENSE` file (MIT is recommended).
-4. Optionally add the original Colab notebook as `script.ipynb`.
-
-Would you like me to also generate a short `LICENSE` file or a simple `CONTRIBUTING.md`?
