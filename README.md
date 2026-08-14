@@ -1,13 +1,10 @@
-Here’s a polished, GitHub-ready `README.md` with badges, clean structure, and a screenshot section.
-
-```markdown
 # Instagram Profile Media Scraper
 
-[<image-card alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" ></image-card>](https://www.python.org/)
-[<image-card alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Ready-orange?logo=googlecolab&logoColor=white" ></image-card>](https://colab.research.google.com/)
-[<image-card alt="Apify" src="https://img.shields.io/badge/Apify-Scraper-green?logo=apify&logoColor=white" ></image-card>](https://apify.com)
-[<image-card alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google&logoColor=white" ></image-card>](https://ai.google.dev)
-[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Apify](https://img.shields.io/badge/Apify-Scraper-green?logo=apify&logoColor=white)](https://apify.com)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A ready-to-use **Google Colab** script that scrapes public Instagram posts & reels within a specific date range, downloads all images and videos, generates AI descriptions with Google Gemini, and creates a clean Excel guide that maps every media file to its original post.
 
@@ -169,7 +166,6 @@ Feel free to use, modify, and share.
 ---
 
 **Made with care for content creators, researchers, and archivists.**
-```
 
 ---
 
