@@ -24,16 +24,6 @@ A ready-to-use **Google Colab** script that scrapes public Instagram posts & ree
 
 ---
 
-## Screenshots / Output Preview
-
-> Replace the image links below with real screenshots after you upload them to your repository.
-
-| Excel Guide | Folder Structure | Sample Media |
-|-------------|------------------|--------------|
-| ![Excel Guide](assets/excel-preview.png) | ![Folders](assets/folder-structure.png) | ![Media](assets/media-preview.png) |
-
----
-
 ## Requirements
 
 | Service          | Purpose                     | Free Tier Available |
