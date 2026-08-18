@@ -90,6 +90,10 @@ instagram_scrape/
 └── raw_filtered_data.json
 ```
 
+<img width="497" height="1080" alt="stored location" src="https://github.com/user-attachments/assets/167de14d-aa0f-47c7-88c9-7f1351877dbe" />
+
+
+
 ---
 
 ## Excel Guide Columns
